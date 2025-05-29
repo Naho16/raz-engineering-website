@@ -17,13 +17,13 @@ The site provides a professional overview of the company’s background, service
 
 ## Pages Included
 
-| Page            | Purpose                                                |
-|-------------   -|--------------------------------------------------------|
-| `index.html`    | Home page with hero section and brief introduction     |
-| `about.html`    | Brand story, founder info, and client relationships    |
-| `services.html` | List of core services (based on real company info)     |
-| `contact.html`  | Contact form, company location, and WhatsApp CTA       |
-| `privacy.html`  | Cookie and privacy notice                              |
+| Page           | Purpose                                                             |
+|----------------|---------------------------------------------------------------------|
+| `index.html`   | Homepage with hero section, intro, and floating WhatsApp CTA        |
+| `about.html`   | Company brand story, founder, values, and client relationship info  |
+| `services.html`| Real company services listed (based on business card)               |
+| `contact.html` | Contact form with Formspree, map, and WhatsApp integration          |
+| `privacy.html` | Cookie policy and basic privacy notice 
 
 ## Features
 
@@ -43,19 +43,9 @@ The site provides a professional overview of the company’s background, service
 
 
 
-## Folder Structure (Simplified)
+## Folder Structure 
 raz-engineering-website/
-├── index.html
-├── about.html
-├── services.html
-├── contact.html
-├── privacy.html
-├── css/
-│ └── styles.css
-├── js/
-│ └── scripts.js
-├── img/
-└── (all website images)
+<pre> raz-engineering-website/ ├── index.html ├── about.html ├── services.html ├── contact.html ├── privacy.html ├── css/ │ └── styles.css ├── js/ │ └── scripts.js ├── img/ │ └── (all project images) </pre>
 
 
 ---
